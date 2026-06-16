@@ -24,7 +24,7 @@ $result = mysqli_query($link, $query);
     *{
         margin: 0;
         padding: 0;
-        text-decoration: none;
+        text-decoraation: none;
     }
     section{
         border: 1px solid gray;
